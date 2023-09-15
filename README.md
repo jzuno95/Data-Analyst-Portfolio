@@ -38,5 +38,5 @@ I occasionally write about data analysis on my [blog](link-to-your-blog).
 
 ## Resume
 
-You can find my detailed resume [here](link-to-your-resume-pdf).
+You can find my detailed resume [here](www.linkedin.com/in/jose-zuno-martinez-641330218).
 
