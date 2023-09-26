@@ -30,7 +30,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jose-zuno
 ## Education
 
 - [Your Degree], [University Name], Graduation Year
-- Data Analysis Certificate, General Assembly, 2023
+- [Data Analytics Certificate](), General Assembly, 2023
 
 ## Blog
 
