@@ -1,1 +1,72 @@
+1. 
+-- Which category has the highest total sales revenue?
+SELECT category, SUM(sales)::money AS total_sales
+FROM products
+JOIN orders
+USING (product_id)
+GROUP BY category
+ORDER BY 1 DESC;
 
+2.
+-- What is the best performing product category and customer segment?
+SELECT products.category, customers.segment, SUM(orders.sales)::money AS total_sales
+FROM customers
+JOIN orders
+USING (customer_id)
+JOIN products
+USING (product_id)
+GROUP BY products.category, customers.segment
+ORDER BY 3 DESC;
+
+3.
+-- Which sub_region is bringing in the most income for Technology?
+SELECT products.category, customers.segment, regions.sub_region, SUM(orders.sales)::money AS total_sales
+FROM customers
+JOIN orders
+USING (customer_id)
+JOIN products
+USING (product_id)
+JOIN regions
+USING (region_id)
+WHERE category = 'Technology'
+GROUP BY products.category, customers.segment,regions.sub_region
+ORDER BY category, 4 DESC
+LIMIT 5;
+
+
+4.
+-- What customer segment has the most profit?
+SELECT DISTINCT customers.segment, SUM(orders.sales)::money
+FROM customers
+JOIN orders
+USING (customer_id)
+GROUP BY 1
+ORDER BY 2 DESC
+
+5.
+-–Which category brings in the most orders?
+SELECT products.category, COUNT(orders.order_id) AS order_count
+FROM orders
+JOIN products
+USING (product_id)
+GROUP BY 1
+ORDER BY 2 DESC;
+
+6. 
+--What is the average price sold to each customer?
+SELECT DISTINCT category, AVG(product_cost_to_consumer) AS avg_price
+FROM products
+GROUP BY 1;
+
+7.
+--Which salesperson has the most sales count in the Technology category?
+SELECT DISTINCT regions.salesperson, products.category, COUNT(orders.order_id) AS sales_count
+FROM orders
+JOIN regions
+USING (region_id)
+JOIN products
+USING (product_id)
+WHERE category = 'Technology'
+GROUP BY 1,2
+ORDER BY 3 DESC
+LIMIT 10;
