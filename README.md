@@ -10,7 +10,7 @@ Welcome to my Data Analyst Portfolio! I'm a data anaylst with a passion for reve
 
 Here are some of my notable data analysis projects:
 
-1. [Project 1 Name](link-to-project-1): A brief description of the project.
+1. [Project 1 ](Project 1): A brief description of the project.
 2. [Project 2 Name](link-to-project-2): A brief description of the project.
 3. [Project 3 Name](link-to-project-3): A brief description of the project.
 
