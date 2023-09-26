@@ -16,7 +16,7 @@ Here are some of my notable data analysis projects:
 
 ## Contact Me
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/jose-zuno-martinez-641330218).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jose-zuno-martinez-641330218).
 
 ## Skills
 
