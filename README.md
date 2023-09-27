@@ -22,7 +22,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jose-zuno
 
 - Data Analysis
 - Data Visualization
-- 
 - SQL
 - Excel
 - Tableau
