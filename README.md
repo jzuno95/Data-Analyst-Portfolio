@@ -11,7 +11,7 @@ I'm a data anaylst with a passion for revealing insights using data. I thrive to
 Here are some of my notable data analysis projects:
 
 1. [Project 1](https://github.com/jzuno95/data-analyst-portfolio/tree/e95b7b7113a4838cd881b2f137728fe76de32e15/Project%201): For this project, the goal was to find the best performing product category and customer segment. PostgreSQL was used to clean and wrangle up data where it would be taken into Microsoft Excel to create pivot tables in order to create a presentaion for the findings. 
-2. [Project 2](https://github.com/jzuno95/data-analyst-portfolio/tree/0e48bca86d6adb7767f641a744caa62791549af9/Project%202): A brief description of the project.
+2. [Project 2](https://github.com/jzuno95/data-analyst-portfolio/tree/0e48bca86d6adb7767f641a744caa62791549af9/Project%202): A project completely done on Tableau.
 3. [Project 3 Name](link-to-project-3): A brief description of the project.
 
 ## Contact Me
