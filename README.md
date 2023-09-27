@@ -33,5 +33,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jose-zuno
 
 ## Resume
 
-You can find my detailed resume [here](https://github.com/jzuno95/data-analyst-portfolio/blob/main/Resume%208_2023.pdf).
+You can find my detailed resume [here](https://github.com/jzuno95/data-analyst-portfolio/blob/91c1a2a0a0da587e59aee7dbcbb3bc8a3e1b8b63/Resume%20Current.pdf).
 
