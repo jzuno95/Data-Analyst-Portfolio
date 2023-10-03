@@ -4,7 +4,7 @@ Welcome to my data analyst portfolio! I'm a data analyst with a passion for reve
 
 ## About Me
 
-I'm a data anaylst with a passion for revealing insights using data. I thrive to live in the world of data analysis. What excites me the most is the power of data to tell stories, uncover hidden trends, and drive informed decisions. I firmly believe that data analysis is not just about numbers and spreadsheets; it's about extracting meaningful insights that can transform businesses and make a positive impact. I was able to hone in and sharpen my skills of data analysis at General Assembly, where I was given a certification to show for completing the course. With data constantly changing and analysis techniques evolving, I actively engage in learning and continue to improve my skills to expand my knowlege.
+I'm a data anaylst with a passion for data. I thrive to live in the world of data analysis. What excites me the most is the power of data to tell stories, uncover hidden trends, and drive informed decisions. I firmly believe that data analysis is not just about numbers and spreadsheets; it's about extracting meaningful insights that can transform businesses and make a positive impact. I was able to hone in and sharpen my skills of data analysis at General Assembly, where I was given a certification to show for completing the course. With data constantly changing and analysis techniques evolving, I actively engage in learning and continue to improve my skills to expand my knowlege.
 
 ## Portfolio Highlights
 
